@@ -1,6 +1,6 @@
 {
   "name": "gulp-jshint-file-reporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple reporter for gulp-jshint that writes it's output to a file.",
   "main": "index.js",
   "scripts": {
